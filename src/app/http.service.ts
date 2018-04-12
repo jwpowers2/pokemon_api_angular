@@ -33,9 +33,9 @@ export class HttpService {
 
       }
       
-      console.log("Got our pokemon!", pokemonList));
+      console.log("Got our pokemon!", pokemonList);
 
-    })
-}
+    });
+  }
 
 
